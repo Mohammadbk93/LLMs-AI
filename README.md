@@ -70,4 +70,83 @@ This highlights the importance of efficient evaluation strategies in real-world 
 - Emotional and role-based prompts can improve responses in some cases  
 - Chain-of-Thought prompting helps with reasoning tasks  
 - Automated evaluation pipelines are essential for scalable prompt engineering  
-- Cost and token usage must be carefully managed when testing multiple models  
+- Cost and token usage must be carefully managed when testing multiple models
+______________________________________________________________________________________________________________________________________________________
+## AI Automation
+
+##  Project Overview  AI Document Q&A Agent (n8n)
+
+This project is an AI-powered RAG (Retrieval-Augmented Generation) system built in n8n.
+It allows you to upload a PDF document to Google Drive and ask questions about its content.
+The workflow retrieves relevant text from the document using a vector database and generates accurate answers with OpenAI GPT-4o-mini.
+
+📌How This Project Helps People and Organizations
+
+This AI Document Q&A Agent can be extremely useful for anyone who works with large documents, manuals, reports, or internal files.
+Instead of searching manually through long PDFs, users can simply ask questions and get accurate answers instantly.
+
+📌Who Can Benefit
+
+- Students & Researchers — quickly extract important information from academic papers
+
+- Teams & Organizations — make internal documents searchable and interactive
+
+- Customer Support — turn product manuals into smart, conversational knowledge bases
+
+- Managers & Executives — access key insights from long reports without reading everything
+
+- Educators — create instant Q&A systems for course materials
+
+- Engineers / Developers — build custom chatbots for private documents
+
+📌How It Helps
+
+- Instant Information Retrieval
+No need to scroll through a PDF — ask a question and get the exact answer.
+
+- Automated Knowledge Extraction
+Converts any document into a searchable knowledge base using AI.
+
+- Context-Aware Answers
+Uses the uploaded document as the only source, ensuring grounded and accurate responses.
+
+- Saves Time
+Reduces hours of manual reading, searching, and summarizing.
+
+- Private & Secure
+Your data stays inside your own n8n workflow and vector database.
+
+- Increases Productivity
+Teams can make faster decisions by retrieving essential information instantly.
+
+📌Key Steps:
+
+- Load a PDF file stored in Google Drive
+
+- Split the document into text chunks
+
+- Convert chunks into embeddings using OpenAI
+
+- Store embeddings in a Pinecone vector database
+
+- Retrieve the most relevant chunks based on user queries
+
+- Generate context-aware answers using GPT-4o-mini
+
+- Interact with the agent using n8n’s built-in chat interface
+
+📌Output
+
+- Accurate answers grounded in the uploaded PDF
+
+- Fast, semantic search over document content
+
+- Fully automated workflow for document processing
+
+- Real-time Q&A capability through n8n
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04e3f96b-8a85-46f9-98f1-e26d8d4d453a" width="300" />
+  <img src="https://github.com/user-attachments/assets/008033d4-9564-4320-be20-11cc44a90a8f" width="300" />
+  <img src="https://github.com/user-attachments/assets/a3e96b88-0e91-4226-a72f-2e8f4056303c" width="300" />
+</p>
