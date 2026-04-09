@@ -1,5 +1,3 @@
-# LLMs-AI
-
 # Applied Prompt Engineering: Prompt Testing and Evaluation with Promptfoo
 
 <p align="center">
