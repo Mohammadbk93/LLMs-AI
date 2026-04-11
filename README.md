@@ -8,7 +8,6 @@
 </p>
 
 ## What I Have Done
-
 In this project, I explored and evaluated different prompt engineering techniques using Promptfoo. I designed and tested four types of prompts:
 
 1. Standard Prompt  
