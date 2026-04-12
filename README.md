@@ -26,7 +26,6 @@ The experiment included:
 In total, I ran 1824 individual test cases including evaluation by an LLM judge.
 
 ---
-
 ## Why It Is Important
 
 Prompt engineering plays a critical role in improving the quality and reliability of LLM outputs. This project demonstrates:
