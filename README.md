@@ -151,7 +151,7 @@ Teams can make faster decisions by retrieving essential information instantly.
 _____________________________________________________________________________________________________________________________________________________
 
 # 🤖 AI Assistant for PhD Program Information (RAG-based Chatbot)
-### [Live App Here](https://github.com/Mohammadbk93/projects/blob/main/PPG_Signal_Processing.ipynb)
+### [👉Click here to view the Live App](https://github.com/Mohammadbk93/projects/blob/main/PPG_Signal_Processing.ipynb)
 
 ## What I Have Done
 
