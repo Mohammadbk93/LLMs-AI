@@ -151,8 +151,7 @@ Teams can make faster decisions by retrieving essential information instantly.
 _____________________________________________________________________________________________________________________________________________________
 
 # 🤖 AI Assistant for PhD Program Information (RAG-based Chatbot)
-### [👉Click here to view the Live App](https://github.com/Mohammadbk93/projects/blob/main/PPG_Signal_Processing.ipynb)
-
+### [👉Click here to view the Live App](https://llms-phd-program.streamlit.app/)
 ## What I Have Done
 
 I developed a Retrieval-Augmented Generation (RAG) chatbot application that allows users to interact with and query information from documents, specifically focused on PhD program details.
