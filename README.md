@@ -69,7 +69,7 @@ This highlights the importance of efficient evaluation strategies in real-world 
 - Chain-of-Thought prompting helps with reasoning tasks  
 - Automated evaluation pipelines are essential for scalable prompt engineering  
 - Cost and token usage must be carefully managed when testing multiple models
-______________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________
 # AI Automation
 
 #  Project Overview  AI Document Q&A Agent (n8n)
@@ -148,3 +148,38 @@ Teams can make faster decisions by retrieving essential information instantly.
   <img src="https://github.com/user-attachments/assets/008033d4-9564-4320-be20-11cc44a90a8f" width="300" />
   <img src="https://github.com/user-attachments/assets/a3e96b88-0e91-4226-a72f-2e8f4056303c" width="300" />
 </p>
+_____________________________________________________________________________________________________________________________________________________
+# 🤖 AI Assistant for PhD Program Information (RAG-based Chatbot)
+
+## What I Have Done
+
+I developed a Retrieval-Augmented Generation (RAG) chatbot application that allows users to interact with and query information from documents, specifically focused on PhD program details.
+
+The system processes PDF documents, extracts and chunks the text, converts it into vector embeddings using OpenAI models, and stores them in a Pinecone vector database. When a user asks a question, the system retrieves the most relevant information from the database and generates a response using a language model.
+
+This approach enables accurate, context-aware answers instead of generic responses.
+
+### Business Value
+
+This solution can be applied across multiple business domains:
+
+- **Knowledge Management**: Enables organizations to query internal documents (policies, manuals, reports) efficiently.
+- **Customer Support Automation**: Provides instant, context-aware answers based on company documentation.
+- **Education & Training**: Helps users explore structured content such as academic programs or training materials.
+- **Decision Support Systems**: Allows quick access to relevant insights from large datasets.
+
+Overall, it reduces manual effort, improves information accessibility, and enhances user experience.
+
+---
+
+## Technologies Used
+
+- **Python**
+- **Streamlit** (UI and deployment)
+- **OpenAI API** (embeddings and language model)
+- **Pinecone** (vector database)
+- **PyPDF** (PDF text extraction)
+- **dotenv** (environment variable management)
+
+---
+
