@@ -149,6 +149,7 @@ Teams can make faster decisions by retrieving essential information instantly.
   <img src="https://github.com/user-attachments/assets/a3e96b88-0e91-4226-a72f-2e8f4056303c" width="300" />
 </p>
 _____________________________________________________________________________________________________________________________________________________
+
 # 🤖 AI Assistant for PhD Program Information (RAG-based Chatbot)
 
 ## What I Have Done
@@ -180,6 +181,9 @@ Overall, it reduces manual effort, improves information accessibility, and enhan
 - **Pinecone** (vector database)
 - **PyPDF** (PDF text extraction)
 - **dotenv** (environment variable management)
-
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/491fb663-11fd-480d-885c-56159a3879bd" width="900" />
+</p>
 ---
 
