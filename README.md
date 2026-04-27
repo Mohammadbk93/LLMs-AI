@@ -170,7 +170,6 @@ This solution can be applied across multiple business domains:
 - **Decision Support Systems**: Allows quick access to relevant insights from large datasets.
 
 Overall, it reduces manual effort, improves information accessibility, and enhances user experience.
-
 ---
 
 ## Technologies Used
