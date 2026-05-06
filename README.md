@@ -186,3 +186,75 @@ Overall, it reduces manual effort, improves information accessibility, and enhan
 </p>
 ---
 
+# AI Meal Planner Agent
+### [👉Click here to view the Live App](https://aimealplanneragent.streamlit.app/)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23322977-2647-4e49-a86b-71271832a9a5" width="300" />
+  <img src="https://github.com/user-attachments/assets/71fd7e60-feaa-4595-8975-7c2b6d824178" width="300" />
+</p>
+
+__________
+
+## Summary
+
+AI Meal Planner Agent is a Streamlit-based AI application that generates personalized meal plans from user-provided ingredients. The app uses OpenAI models to create healthy and structured meal recommendations based on calorie goals, meal preferences, and cooking styles.
+
+Users can also:
+- Download meal plans as PDF files
+- Generate voice-guided cooking instructions
+- Customize meals for breakfast, lunch, dinner, or full-day plans
+
+---
+
+## Why This Project Is Useful
+
+This project helps users quickly create healthy meal plans without manually searching for recipes or calculating nutrition constraints.
+
+It is useful for:
+- People who want healthy meal suggestions
+- Fitness-focused users tracking calories
+- Users with limited ingredients at home
+- Anyone interested in AI-powered productivity tools
+
+The application combines AI-generated text, PDF generation, and AI voice synthesis into one interactive experience.
+
+---
+
+## Technologies Used
+
+### Frontend / UI
+- Streamlit
+
+### AI Models
+- OpenAI GPT-4.1-mini
+- OpenAI Text-to-Speech (TTS)
+
+### Backend / Logic
+- Python
+
+### PDF Generation
+- ReportLab
+
+### Other Python Libraries
+- io.BytesIO
+
+---
+
+## Deployment
+
+This project is deployed on Streamlit Cloud.
+
+---
+
+## Future Improvements
+
+- Nutrition and macro tracking
+- User authentication
+- Saved meal history
+- Multi-language support
+- Grocery shopping list generation
+- Database integration
+- Image generation for meals
+
+---
