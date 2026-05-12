@@ -258,3 +258,38 @@ This project is deployed on Streamlit Cloud.
 - Image generation for meals
 
 ---
+_____________________________________________________________________________________________________________________________________________________
+
+
+# 𝕏 Tweet Generator with Reflection Agents
+An AI-powered tweet generation application built with LangGraph, LangChain, OpenAI, and Streamlit.
+### [👉Click here to view the Live App](https://tweet-generator-langgraph.streamlit.app/)
+
+<img width="1079" height="613" alt="Screenshot 2026-05-13 004104" src="https://github.com/user-attachments/assets/a4df0007-95de-47fb-9e10-de9878d2b224" />
+
+
+This project uses a reflection-based workflow where the AI:
+1. Generates an initial tweet
+2. Critiques and reflects on the output
+3. Improves the tweet iteratively
+4. Produces a final optimized version
+
+## Features
+
+- AI tweet generation
+- Reflection and self-improvement loop
+- Multi-step draft iterations
+- Final optimized tweet output
+- Streamlit interactive UI
+- LangGraph state-based workflow
+- OpenAI GPT integration
+
+## Tech Stack
+
+- Python
+- Streamlit 
+- LangChain
+- LangGraph
+- OpenAI API
+
+
