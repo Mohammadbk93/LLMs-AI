@@ -74,6 +74,12 @@ ________________________________________________________________________________
 
 #  Project Overview  AI Document Q&A Agent (n8n)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04e3f96b-8a85-46f9-98f1-e26d8d4d453a" width="300" />
+  <img src="https://github.com/user-attachments/assets/008033d4-9564-4320-be20-11cc44a90a8f" width="300" />
+  <img src="https://github.com/user-attachments/assets/a3e96b88-0e91-4226-a72f-2e8f4056303c" width="300" />
+</p>
+
 This project is an AI-powered RAG (Retrieval-Augmented Generation) system built in n8n.
 It allows you to upload a PDF document to Google Drive and ask questions about its content.
 The workflow retrieves relevant text from the document using a vector database and generates accurate answers with OpenAI GPT-4o-mini.
@@ -143,15 +149,16 @@ Teams can make faster decisions by retrieving essential information instantly.
 
 - Real-time Q&A capability through n8n
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/04e3f96b-8a85-46f9-98f1-e26d8d4d453a" width="300" />
-  <img src="https://github.com/user-attachments/assets/008033d4-9564-4320-be20-11cc44a90a8f" width="300" />
-  <img src="https://github.com/user-attachments/assets/a3e96b88-0e91-4226-a72f-2e8f4056303c" width="300" />
-</p>
+
 _____________________________________________________________________________________________________________________________________________________
 
 # 🤖 AI Assistant for PhD Program Information (RAG-based Chatbot)
 ### [👉Click here to view the Live App](https://llms-phd-program.streamlit.app/)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/491fb663-11fd-480d-885c-56159a3879bd" width="900" />
+</p>
+
 ## What I Have Done
 
 I developed a Retrieval-Augmented Generation (RAG) chatbot application that allows users to interact with and query information from documents, specifically focused on PhD program details.
@@ -181,9 +188,7 @@ Overall, it reduces manual effort, improves information accessibility, and enhan
 - **PyPDF** (PDF text extraction)
 - **dotenv** (environment variable management)
   
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/491fb663-11fd-480d-885c-56159a3879bd" width="900" />
-</p>
+
 ---
 
 # AI Meal Planner Agent
