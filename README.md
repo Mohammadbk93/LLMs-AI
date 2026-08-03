@@ -145,7 +145,6 @@ A RAG chatbot that answers questions about PhD program details. PDFs are extract
 </p>
 
 Generates **personalized meal plans** from user-provided ingredients, calorie goals, and cooking styles.
-
 - Download plans as **PDF** (ReportLab).
 - **Voice-guided** cooking instructions via OpenAI Text-to-Speech.
 - Breakfast, lunch, dinner, or full-day plans.
